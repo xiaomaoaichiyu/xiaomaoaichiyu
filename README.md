@@ -1,13 +1,16 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+Liu+Yang)
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+am+Liu+Yang)
   
 ### About Me :
-I am a PhD Candidate at BUAA.
+I am a PhD Candidate at Beihang University.
 
-- I’ve been actively studying on parallel computing, graph computing & machine learning system. Quickly learn new information, have good analytical skills, attentive to details, work well on my own. Read much specialized literature. I like to achieve perfection in everything I do.
-- Apart from being a developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier. During the warmer months, I enjoy mountain biking, and free climbing.
+- My research focuses on graph computing systems and large-scale machine learning systems, with particular interests in:
+  - High-performance graph processing frameworks and algorithms
+  - Distributed training optimization for large-scale ML models
+  - System-level optimizations for graph neural networks
+  - GPU-accelerated computing and parallel algorithms
+- I have experience in developing and optimizing distributed systems using C++, CUDA, and Python
+- Currently working on improving the efficiency and scalability of graph-based systems
 
 ---
 
@@ -19,10 +22,9 @@ I am a PhD Candidate at BUAA.
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nvidia.svg" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
 </div>
 
@@ -36,8 +38,6 @@ I am a PhD Candidate at BUAA.
   </a>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages which is public not private!
-  <br>
-  <br>
   <br>
   
   <p>
